@@ -1,2 +1,0 @@
-require('dotenv').config();
-const apiKey = process.env.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;
